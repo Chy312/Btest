@@ -7,5 +7,6 @@ public class EntryHere {
         int figure = cal.subtraction(333,21);
         System.out.println("The calculated answer is -------"+figure);
         System.out.println("This is a comfirmed info from sub-program branch MBP16");
+        System.out.println("This is a confirmed info from sub-program branch Alienware 17R4");
     }
 }
