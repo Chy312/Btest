@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5100e47-c801-4a49-b39d-c0ea72368c79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Calculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Btest/EntryHere.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Btest/EntryHere.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/EntryHere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EntryHere.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -73,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590033380530</updated>
       <workItem from="1590033381842" duration="129000" />
+      <workItem from="1590040879015" duration="33000" />
     </task>
     <servers />
   </component>
