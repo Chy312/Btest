@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5100e47-c801-4a49-b39d-c0ea72368c79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Calculation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Btest/EntryHere.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Btest/EntryHere.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/EntryHere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EntryHere.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +44,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
@@ -72,7 +73,6 @@
       <option name="presentableId" value="Default" />
       <updated>1590033380530</updated>
       <workItem from="1590033381842" duration="129000" />
-      <workItem from="1590036568620" duration="125000" />
     </task>
     <servers />
   </component>
@@ -83,9 +83,37 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="94" key="SettingsEditor" timestamp="1590036605309">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1358" height="224" key="GridCell.Tab.0.bottom" timestamp="1590037028702">
+      <screen x="0" y="23" width="1536" height="856" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590036605309" />
+    <state width="1358" height="224" key="GridCell.Tab.0.bottom/0.23.1536.856@0.23.1536.856" timestamp="1590037028702" />
+    <state width="1358" height="224" key="GridCell.Tab.0.center" timestamp="1590037028701">
+      <screen x="0" y="23" width="1536" height="856" />
+    </state>
+    <state width="1358" height="224" key="GridCell.Tab.0.center/0.23.1536.856@0.23.1536.856" timestamp="1590037028701" />
+    <state width="1358" height="224" key="GridCell.Tab.0.left" timestamp="1590037028700">
+      <screen x="0" y="23" width="1536" height="856" />
+    </state>
+    <state width="1358" height="224" key="GridCell.Tab.0.left/0.23.1536.856@0.23.1536.856" timestamp="1590037028700" />
+    <state width="1358" height="224" key="GridCell.Tab.0.right" timestamp="1590037028701">
+      <screen x="0" y="23" width="1536" height="856" />
+    </state>
+    <state width="1358" height="224" key="GridCell.Tab.0.right/0.23.1536.856@0.23.1536.856" timestamp="1590037028701" />
+    <state x="154" y="98" key="MergeDialog" timestamp="1590036937232">
+      <screen x="0" y="23" width="1536" height="856" />
+    </state>
+    <state x="154" y="98" key="MergeDialog/0.23.1536.856@0.23.1536.856" timestamp="1590036937232" />
+    <state x="256" y="32" key="SettingsEditor" timestamp="1590037017450">
+      <screen x="0" y="23" width="1536" height="856" />
+    </state>
+    <state x="256" y="32" key="SettingsEditor/0.23.1536.856@0.23.1536.856" timestamp="1590037017450" />
+    <state x="524" y="174" key="VCS.ChangeListViewerDialog" timestamp="1590036881167">
+      <screen x="0" y="23" width="1536" height="856" />
+    </state>
+    <state x="524" y="174" key="VCS.ChangeListViewerDialog/0.23.1536.856@0.23.1536.856" timestamp="1590036881167" />
+    <state x="556" y="372" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590036915984">
+      <screen x="0" y="23" width="1536" height="856" />
+    </state>
+    <state x="556" y="372" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1536.856@0.23.1536.856" timestamp="1590036915984" />
   </component>
 </project>
